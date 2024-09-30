@@ -1,0 +1,21 @@
+ 
+.dashboard .top-yeild {
+    font-size: 14px;
+  }
+  
+  .dashboard .top-yeild .table thead {
+    background: #f6f6fe !important;
+  }
+  
+  .dashboard .top-yeild .table thead th {
+    border: 0;
+  }
+  
+  .dashboard .top-yeild .table tbody td {
+    vertical-align: middle;
+  }
+  
+  .dashboard .top-yeild img {
+    border-radius: 5px;
+    max-width: 60px;
+  }

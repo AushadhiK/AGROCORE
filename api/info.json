@@ -1,0 +1,188 @@
+
+{
+    "cards": [
+      {
+        "_id": 1,
+        "name": "Loan Disbursment",
+        "icon": "bi bi-cart",
+        "amount": 145,
+        "percentage": 0.12,
+        "active": true
+      },
+      {
+        "_id": 2,
+        "name": "Fruit & Vegetable Yeild",
+        "icon": "bi bi-currency-dollar",
+        "amount": 3246,
+        "percentage": 0.08,
+        "active": false
+      },
+      {
+        "_id": 3,
+        "name": "Farmers",
+        "icon": "bi bi-people",
+        "amount": 1244,
+        "percentage": -0.11,
+        "active": false
+      }
+    ],
+    "news": [
+      {
+        "_id": 1,
+        "img": "../assets/items/News1.jpg",
+        "title": "Farmers Day and Agricultural Fair – 2023 ",
+        "subtitle": "The “Farmer’s Field Day and Agricultural Exhibition” organized by the Department of Agriculture",
+        "category": "abc",
+        "linktoSite": ""
+      },
+      {
+        "_id": 2,
+        "img": "../assets/items/News2.jpg",
+        "title": "Farm Field Day - 2024",
+        "subtitle": "Field Crops Research and Development Institute, Mahailuppallama",
+        "category": "abc", 
+        "linktoSite": ""
+      },
+      {
+        "_id": 3,
+        "img": "../assets/items/News3.jpg",
+        "title": "Variety Releasing Committee Meeting - 2022",
+        "subtitle": "Variety releasing committee meeting of Department of Agriculture was held at Auditorium of National Agriculture information & Communication Centre ",
+        "category": "abc",
+        "linktoSite": "https://www.agrariandept.gov.lk/web/index.php?lang=en"
+      },
+      {
+        "_id": 4,
+        "img": "../assets/items/News4.jpg",
+        "title": "Sustainable Home Garden Development Program - 2021",
+        "subtitle": "Sustainable Home Garden Development Program – 2021 The inaugural National Ceremony of the Sustainable Home Garden Development Program – 2021 conducted by …",
+        "category": "abc",
+        "linktoSite": "https://www.agrariandept.gov.lk/web/index.php?lang=en"
+      },
+      {
+        "_id": 5,
+        "img": "../assets/items/News5.jpg",
+        "title": "Agri Tech 24  ",
+        "subtitle": "Agri Tech 24 Agri Tech Exhibition will be held from March 02 to 05 at...",
+        "category": "abc",
+        "linktoSite": "https://www.agrariandept.gov.lk/web/index.php?lang=en"
+      }
+    ],
+    "topselling": [
+      {
+        "_id": 1,
+        "preview": "../assets/items/bellPepper.jpg",
+        "name": "Banana",
+        "price": 64,
+        "sold": 124
+      },
+      {
+        "_id": 2,
+        "preview": "../assets/items/cucumber.jpg",
+        "name": "Bell Papaer",
+        "price": 46,
+        "sold": 98
+      },
+      {
+        "_id": 3,
+        "preview": "../assets/items/cabage.jpg",
+        "name": "Cabage",
+        "price": 59,
+        "sold": 74
+      },
+      {
+        "_id": 4,
+        "preview": "../assets/items/pinaple.jpeg",
+        "name": "Pinaaple",
+        "price": 32,
+        "sold": 63
+      },
+      {
+        "_id": 5,
+        "preview": "../assets/items/papaya.jpeg",
+        "name": "Pappaya",
+        "price": 79,
+        "sold": 41
+      }
+    ],
+    "recentsales": [
+      {
+        "_id": 1,
+        "number": "#2457",
+        "customer": "Nimali Jayasinghe",
+        "product": "Bell pepper",
+        "price": 64000,
+        "status": "Approved"
+      },
+      {
+        "_id": 2,
+        "number": "#2147",
+        "customer": "Nishantha Werrasekara",
+        "product": "Cucumber",
+        "price": 50000,
+        "status": "Pending"
+      },
+      {
+        "_id": 3,
+        "number": "#2049",
+        "customer": "Sunil Abeysinge",
+        "product": "Papaya",
+        "price": 25000,
+        "status": "Approved"
+      },
+      {
+        "_id": 4,
+        "number": "#2644",
+        "customer": "Amila Senadeera",
+        "product": "Cabbage",
+        "price": 67,
+        "status": "Rejected"
+      },
+      {
+        "_id": 5,
+        "number": "#3592",
+        "customer": "Nimanthi Kulasena",
+        "product": "Pineapple",
+        "price": 135,
+        "status": "Approved"
+      }
+    ],
+    "recentactiviy": [
+      {
+        "_id": 1,
+        "time": "32 min",
+        "color": "text-success",
+        "content": "New loan request created.",
+        "highlight": "request"
+      },
+      {
+        "_id": 2,
+        "time": "56 min",
+        "color": "text-danger",
+        "content": "New Loan type added",
+        "highlight": ""
+      },
+      {
+        "_id": 3,
+        "time": "2 hrs",
+        "color": "text-primary",
+        "content": "New Farmer Registered",
+        "highlight": ""
+      },
+      {
+        "_id": 4,
+        "time": "1 day",
+        "color": "text-info",
+        "content": "New Loan sechme added.",
+        "highlight": "Loan sechme"
+      },
+      {
+        "_id": 5,
+        "time": "2 days",
+        "color": "text-warning",
+        "content": "New group created",
+        "highlight": ""
+      } 
+    ]
+  }
+  
